@@ -2,7 +2,7 @@
 
 This is a 4-function calculator (plus exponents!) It looks like this:
 
-![screenshot of calculator](calc.png)
+![screenshot of calculator](https://github.com/robss2020/desktopcalculator/blob/main/calc.PNG)
 
 # Installation
 
